@@ -1,2 +1,2 @@
 # Klinema-extension
-Filtra contenidos de vídeos previamente seleccionados
+Ayuda a preparar los filtros para la extensión Klinema
